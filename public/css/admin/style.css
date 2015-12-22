@@ -1,0 +1,73 @@
+
+table
+{
+font-size: 14px;
+font-family: cursive;
+color: 		#4169E1;
+font-weight: bold;
+}
+
+.object_ok
+{
+border: 1px solid green; 
+color: #333333; 
+}
+
+.object_error
+{
+border: 1px solid #AC3962; 
+color: #333333; 
+}
+
+/* Input */
+input
+{
+margin: 5 5 5 0;
+padding: 2px; 
+
+border: 1px solid #6495ED; 
+border-top-color:#D0D0D0    ; 
+border-left-color:#D0D0D0   ; 
+
+color: #000080; 
+
+font-size: 13px;
+-moz-border-radius: 3px;
+}
+
+.submit {
+ background-color:	#6495ED ;
+ -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ -moz-box-shadow: 3px 3px 1px #999;
+ -webkit-box-shadow: 3px 3px 1px #999;
+ border: solid 1px #CCC;
+ font-size:14px;
+ color: #ffffff;
+ text-shadow: 2px 2px 4px #000000;
+ font-family: cursive;
+ font-weight: bold;
+ }
+
+.submit:hover {
+ color:	#FFFFBB;
+ cursor: pointer;
+ }
+
+.div_login {
+background: url("../../images/background.png") top left repeat fixed #CCCCCC;
+border-radius: 10px 10px 10px 10px;
+width: 350px;
+height: 200px;
+
+margin-top:100px;
+margin-left: 300px;
+margin-right: 300px;
+}
+
+.div_container {
+background: url("../../images/background.png") top left repeat fixed #CCCCCC;
+border-radius: 10px 10px 10px 10px;
+height: 1000px;
+
+} 

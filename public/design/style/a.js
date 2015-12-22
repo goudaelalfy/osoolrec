@@ -1,0 +1,15 @@
+stm_bm(["menu0a7f",970,"","blank.gif",0,"","",0,0,250,50,1000,1,0,0,"","",0,0,1,1,"default","hand","",1,25],this);
+stm_bp("p0",[1,4,0,0,0,2,16,0,100,"progid:DXImageTransform.Microsoft.Wipe(GradientSize=1.0,wipeStyle=0,motion=forward,enabled=0,Duration=0.20)",6,"",-2,90,0,0,"#7F7F7F","#000000","",3,0,0,"#666666","",0,0,0,"transparent","",3,"",-1,5,0,"#006666","",3,"",-1,-1,0,"transparent","",3,"",-1,5,0,"#006666","",3,"","","","",20,20,20,20,20,20,20,20]);
+stm_ai("p0i0",[0,"Applicant","","",-1,-1,0,"","_self","","","arrowaa.gif","arrowaa.gif",16,16,0,"","",0,0,0,0,1,"#FF6600",0,"#FF6600",0,"","",3,3,0,0,"#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF","bold 17pt Verdana","bold 17pt Verdana",0,0,"","","","",0,0,0],180,22);
+stm_aix("p0i1","p0i0",[0,"Log In","","",-1,-1,0,"#","_self","","","arrow011.gif","arrow011.gif",7,7,0,"","",0,0,0,0,0,"#333333",0,"#333333",0,"","",3,3,0,0,"#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF","12pt Verdana","16pt Verdana"],180,0);
+stm_ai("p0i2",[6,2,"#000000","",-1,-1,0]);
+stm_aix("p0i3","p0i1",[0,"Register"],180,0);
+stm_aix("p0i4","p0i2",[]);
+stm_aix("p0i5","p0i1",[0,"Find Jobs"],180,0);
+stm_aix("p0i6","p0i2",[]);
+stm_aix("p0i7","p0i1",[0,"Find Course"],180,0);
+stm_aix("p0i8","p0i2",[]);
+stm_aix("p0i9","p0i1",[0,"Interview Tips"],180,0);
+stm_aix("p0i10","p0i0",[0,"","","",-1,-1,0,"","_self","","","","",0,0,0,"","",0,0,0,0,0,"#000000",0,"#FF6600",0,"","",3,3,0,0,"#FFFFFF","#FFFFFF","#9999FF","#FFFFFF","8pt Arial","8pt Arial"],180,0);
+stm_ep();
+stm_em();

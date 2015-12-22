@@ -1,0 +1,66 @@
+#body{ margin-top:0; margin-right:auto;
+margin-bottom:0;
+margin-left:auto;
+
+width:900px;
+height:1300px;
+background:#FCDCBC
+}.sa {
+	font-weight: bold;
+	font-size: 12px;
+}
+.ca {
+	font-size: 12px;
+	font-weight: normal;
+}
+.w {
+	font-size: 14px;
+	font-weight: bold;
+}
+.w {
+	font-weight: bold;
+}
+.r {
+	font-size: 12px;
+}
+.f {
+	font-weight: bold;
+}
+#apDiv6 #apDiv18 p .f {
+	font-weight: bold;
+	font-size: 14px;
+}
+.b {
+	font-size: 12px;
+	font-weight: normal;
+}
+#apDiv20 #apDiv24 #apDiv25 p {
+	font-size: 16px;
+	font-weight: normal;
+}
+#apDiv20 #apDiv24 #apDiv26 #form2 {
+	font-size: 16px;
+	text-align: left;
+}
+#apDiv20 #apDiv24 #apDiv25 #form1 p label {
+	font-size: 16px;
+}
+#apDiv20 #apDiv24 #apDiv30 table tbody tr td a {
+	font-size: 12px;
+}
+#apDiv20 #apDiv24 #apDiv30 table tbody tr td {
+	font-size: 14px;
+}
+.r {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#apDiv20 #apDiv24 #apDiv30 table tbody tr td a {
+	font-weight: bold;
+	font-size: 14px;
+}
+#apDiv20 #apDiv24 #apDiv30 table tbody tr td a strong {
+	font-size: 14px;
+}
+#apDiv31 p a {
+	font-size: 14px;
+}
